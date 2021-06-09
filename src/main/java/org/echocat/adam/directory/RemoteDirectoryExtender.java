@@ -22,6 +22,7 @@
 package org.echocat.adam.directory;
 
 import com.atlassian.crowd.directory.RemoteDirectory;
+import com.atlassian.crowd.directory.ldap.mapper.UserContextMapperConfig;
 import javassist.*;
 import org.echocat.jomon.runtime.util.SerialGenerator;
 import org.echocat.jomon.runtime.util.SimpleLongSerialGenerator;
@@ -163,9 +164,10 @@ public class RemoteDirectoryExtender {
     @Nonnull
     protected CtMethod createGetCustomUserAttributeMappersMethod(@Nonnull CtClass newClass, @Nonnull ClassPool pool) throws Exception {
         final CtClass listClass = pool.get(List.class.getName());
+        final CtClass[] configClassParams = { pool.get(UserContextMapperConfig.class.getName()) };
         final String body = createGetCustomUserAttributeMappersMethodBody();
         try {
-            return CtNewMethod.make(listClass, "getCustomUserAttributeMappers", NO_CLASSES, NO_CLASSES, body, newClass);
+            return CtNewMethod.make(listClass, "getCustomUserAttributeMappers", configClassParams, NO_CLASSES, body, newClass);
         } catch (final CannotCompileException e) {
             throw new CannotCompileException("Cannot compile body:\n" + body, e);
         }
