@@ -1,5 +1,10 @@
 # echocat Adam
 
+## Alex/AT notice
+
+Warning. This echocat adam version is updated for Confluence 7.11 compatibility and includes different small patches from myself and other persons in the network.
+It is made for personal use and given I'm no Java expert, it is in no way tested. NO SUPPORT. NO WARRANTIES. USE AT YOUR OWN RISK.
+
 ## Synopsis
 
 Addon which enhances all user profiles of confluence. It also adds an advanced people directory. The whole addon is configurable by means of an XML, can be localized, supports Velocity templates and supports view and edit restrictions.
