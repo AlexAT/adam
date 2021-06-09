@@ -28,33 +28,33 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.media:dt-media-api-httpclient:2.0.3" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.security:atlassian-secure-xml:3.2.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.xerial.snappy:snappy-java:1.1.1.7" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:embedded-crowd-api:2.8.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-events:2.8.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-api:2.8.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-core:2.8.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-persistence-file:2.8.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:embedded-crowd-api:4.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-events:4.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-api:4.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-core:4.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-persistence-file:4.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.security:atlassian-secure-random:3.2.4" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-core-tiny:2.8.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-core-tiny:4.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.httpcomponents:httpclient:4.3.6" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.httpcomponents:httpcore:4.3.3" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.springframework:spring-beans:3.2.10.RELEASE" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-integration-api:2.8.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-integration-seraph25:2.8.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-integration-client-common:2.8.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:embedded-crowd-spi:2.8.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-password-encoders:2.8.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-integration-api:4.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-integration-seraph25:4.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-integration-client-common:4.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:embedded-crowd-spi:4.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-password-encoders:4.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.security:atlassian-password-encoder:3.2.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.security:atlassian-secure-utils:3.2.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.springframework.security:spring-security-core:3.2.5.RELEASE" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:atlassian-embedded-crowd-atlassian-user:2.0.1" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:embedded-crowd-core:2.8.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-remote:2.8.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-integration-client-rest:2.8.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:embedded-crowd-core:4.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-remote:4.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-integration-client-rest:4.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.httpcomponents:httpclient-cache:4.3.6" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-query-language:2.8.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-query-language:4.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.antlr:antlr-runtime:3.5.2" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-persistence:2.8.8" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-ldap:2.8.8" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-persistence:4.2.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.atlassian.crowd:crowd-ldap:4.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.springframework:spring-tx:3.2.10.RELEASE" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.springframework.ldap:spring-ldap-core:2.0.2.RELEASE" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.springframework.data:spring-data-commons:1.6.1.RELEASE" level="project" />
